@@ -1,0 +1,38 @@
+First person camera mode implemented.
+
+Asteroids are shiny but that is fine because asteroids are mostly made of metal (particularly iron and nickel, like everything else in space.)*
+
+Sound effects.
+-Blaster sound created by Ani Music (http://www.freesound.org/people/ani_music/sounds/219619/)
+-Asteroid explosion sound created by deraj (http://www.freesound.org/people/deraj/sounds/202230/)
+-Ship damage sound created by arithni (http://www.freesound.org/people/arithni/sounds/83631/)
+-Ship death sound created by Syna-max (http://www.freesound.org/people/Syna-Max/sounds/56591/)
+-thruster sound created by potentjello (http://www.freesound.org/people/potentjello/sounds/194081/)
+-Missile launcher sound by elmomo (https://www.freesound.org/people/elmomo/sounds/755/)
+-Death Ray sound by marcuslee (https://www.freesound.org/people/marcuslee/sounds/42106/)
+-Hyper beam sound by Redbulldog98 (https://www.freesound.org/people/Redbulldog98/sounds/102810/)
+
+-playback of an mp3 file
+	-songs featured (in order of appearance):
+	-Heartless on Kanye West's 808s & Heartbreaks
+	-Throwing Fire on Ronald Jenkees's Disorganized Fun
+	-Contact by Daft Punk
+	-Stronger on Kanye West's Graduation
+	-Terran theme from Starcraft
+	-Separate Ways on Journey's Escape
+
+-game includes 8 heavy-handed levels with objectives and special weapons
+-game looks best full screened because of how the text is drawn
+
+CONTROLS:
+WASD, Arrow keys: Control ship
+Mouse: Aim
+Left Click: Basic Laser
+Right Click: Secondary weapon
+Enter: Third person mode
+Space: Navigate menus
+ESC: Debug camera
+
+-most assest probably used without permission, especially music. Sound effects may or may not include permission because I was too lazy to read the licenses.
+
+*this is probably a lie
